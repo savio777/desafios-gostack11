@@ -7,3 +7,6 @@
 [submodule "desafio-gostack11-conceitos-react-native"]
 	path = desafio-gostack11-conceitos-react-native
 	url = https://github.com/savio777/desafio-gostack11-conceitos-react-native
+[submodule "desafio-gostack11-fundamentos-nodejs"]
+	path = desafio-gostack11-fundamentos-nodejs
+	url = https://github.com/savio777/desafio-gostack11-fundamentos-nodejs
