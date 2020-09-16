@@ -13,3 +13,6 @@
 [submodule "desafio-gostack11-typeorm-upload"]
 	path = desafio-gostack11-typeorm-upload
 	url = https://github.com/savio777/desafio-gostack11-typeorm-upload
+[submodule "desafio-gostack11-fundamentos-reactjs"]
+	path = desafio-gostack11-fundamentos-reactjs
+	url = https://github.com/savio777/desafio-gostack11-fundamentos-reactjs
